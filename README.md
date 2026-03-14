@@ -8,7 +8,7 @@ O Jornada de Cientista é um jogo de cartas para até seis pessoas, jogado indiv
 
 ### ✨ Material Disponibilizado
 
-Neste repositório foram disponibilizados dois documentos: a primeiro, nomeado como '(Jornada de Cientista) Cartas' apresenta as cartas para impressão, em que as páginas ímpares são a frente das cartas, e as páginas pares o verso; o segundo, nomeado como '(Jornada da Cientista) Manual de Regras' apresenta um manual básico das regras do jogo, que podem ser utilizados durante a aplicação como forma de consulta.
+Neste repositório foram disponibilizados dois documentos: o primeiro, nomeado como '(Jornada de Cientista) Cartas' apresenta as cartas para impressão, em que as páginas ímpares são a frente das cartas, e as páginas pares o verso; o segundo, nomeado como '(Jornada da Cientista) Manual de Regras' apresenta um manual básico das regras do jogo, que podem ser utilizados durante a aplicação como forma de consulta.
 
 ### ✨ Adaptação do Material
 
