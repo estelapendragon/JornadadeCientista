@@ -12,4 +12,4 @@ Neste repositório foram disponibilizados dois documentos: o primeiro, nomeado c
 
 ### ✨ Adaptação do Material
 
-Caso queira-se adaptar as cartas, bem como as regras, para outros contextos e áreas do conhecimento, o material foi disponinibilizado na plataforma Canva, bastando realizar a cópia do arquivo e assim sua atualização. O arquivo de edição está disponível no [link omitido para revisão]().
+Caso queira-se adaptar as cartas, bem como as regras, para outros contextos e áreas do conhecimento, o material foi disponinibilizado na plataforma Canva, bastando realizar a cópia do arquivo e assim sua atualização. O arquivo de edição está disponível no [link](https://canva.link/r8fz0kv5v85lvpt).
